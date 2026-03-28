@@ -1,0 +1,23 @@
+{
+  "name": "dev.terrorized.outfit-save-generator",
+  "displayName": "Outfit Save System",
+  "version": "1.0.0",
+  "description": "Save and load parameter configurations for VRChat avatars at runtime",
+  "url": "https://github.com/iTerrorized/Outfit-Save-System",
+  "unity": "2022.3",
+  "type": "tool",
+  "vpmDependencies": {
+    "dev.terrorized.drm": "^1.0.0"
+  },
+  "keywords": [
+    "Terrorized",
+    "Outfit",
+    "Save",
+    "VRChat"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
